@@ -153,8 +153,8 @@ var textStrings_CN = {
      
      // -- Strings currently in graphics resources --
         // (bg_preload.png) Preload screen
-     "playingTime"        : "游玩时间: 5 分钟" ,
-     "warning"            : "警告: 这个游戏\n包含暴力,\n无礼和大规模屠杀内容.\n请自行选择是否游玩.\n汉化:ClayCoffee." ,
+     "playingTime"        : "大致游玩时间: 5 分钟" ,
+     "warning"            : "警告: 这个游戏\n包含暴力,\n无礼和大规模屠杀内容.\n请自行选择是否游玩.\n汉化:ClayCoffee,原作者Nicky Case." ,
      
      // (cam-instructions.png) Camera Instructions
      "pointAndClick"      : "点击 & 拍摄" ,
