@@ -126,7 +126,7 @@ var textStrings_CN = {
      "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
      "squaresSnubCircles"   : "小方冷落小圆"                                  ,
     "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
-    "everyoneHates"        : "每个人都讨厌每个人!!1!"                           ,
+    "everyoneHates"        : "每个人都讨厌每个人!"                           ,
    "almostEveryoneHates"  : "几乎每个人都讨厌每个人"                     ,
    "squaresHateCircles"   : "小方讨厌小圆"                                  ,
    "circlesHateSquares"   : "小圆讨厌小方"                                  ,
@@ -136,9 +136,9 @@ var textStrings_CN = {
      "whatever"             : "无论什么"                                              ,
     
    // Act 3
-    "ellipsis"             : ". . ."                                                 ,
+    "ellipsis"             : "ISIS???"                                                 ,
     "coolNoMore"           : "帽子不在酷了，你听说了么？"           ,
-    "beScared"             : "害怕吧，生气吧"                                  ,
+    "beScared"             : "害怕吧，生气吧！"                                  ,
     
     // MANIFESTO
     "manifesto" : [
@@ -154,7 +154,7 @@ var textStrings_CN = {
      // -- Strings currently in graphics resources --
         // (bg_preload.png) Preload screen
      "playingTime"        : "游玩时间: 5 分钟" ,
-     "warning"            : "警告: 这个游戏\n包含暴力,\n无礼和大规模屠杀内容.\n请自行选择是否游玩." ,
+     "warning"            : "警告: 这个游戏\n包含暴力,\n无礼和大规模屠杀内容.\n请自行选择是否游玩.\n汉化:ClayCoffee." ,
      
      // (cam-instructions.png) Camera Instructions
      "pointAndClick"      : "点击 & 拍摄" ,
