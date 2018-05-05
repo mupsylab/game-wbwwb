@@ -194,11 +194,11 @@ var textStrings_CN = {
      "toBeContinued"      : "(还没完!)" ,
      
      // (quote0002.png)
-     "WBWWB"              : "We become what we behold." ,
+     "WBWWB"              : "我们变成了我们所看到的." ,
      "WSOTATOTSU"         : "我们塑造我们的工具，然后我们的工具塑造我们。." ,
      
      // (quote0003.png)
-     "MarshallMcLuhan"    : "Marshall McLuhan" ,
+     "MarshallMcLuhan"    : "马歇尔·麦克卢汉" ,
      
      // (quote0004.png)
      "misatrributed"      : "(错误归因)" ,
