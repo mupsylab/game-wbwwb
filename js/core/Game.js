@@ -12,8 +12,8 @@ var Game = {};
 exports.Game = Game;
 
 // PROPERTIES
-Game.width = 960;
-Game.height = 540;
+Game.width = 1024;
+Game.height = 768;
 Game.stats = true;
 
 // INIT
