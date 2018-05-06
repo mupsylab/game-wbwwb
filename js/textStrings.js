@@ -20,21 +20,21 @@ var textStrings_CN = {
     "somethingInteresting" : "(你应该拍些有趣的)" ,
      "whoIsScreaming"       : "(谁在尖叫？）"               ,
     "circleFearsSquares"   : "小圆害怕小方"                                  ,
-    "whoScaresThem"        : "(你应该拍谁在害怕他们)"         ,
-     "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
+    "whoScaresThem"        : "(你应该拍下谁在害怕他们)"         ,
+     "areTheyScared"        : "(你得拍住他们被小方吓坏了)"       , 
      "squaresSnubCircles"   : "小方冷落小圆"                                  ,
-    "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
+    "areTheySnubbed"       : "(你必须拍下他们 *正在* 冷落小圆)"        , 
     "everyoneHates"        : "每个人都讨厌每个人!"                           ,
    "almostEveryoneHates"  : "几乎每个人都讨厌每个人"                     ,
    "squaresHateCircles"   : "小方讨厌小圆"                                  ,
    "circlesHateSquares"   : "小圆讨厌小方"                                  ,
-   "areTheyYelling"       : "(ya gotta catch 'em *yelling* at others)"              , // not used
+   "areTheyYelling"       : "(你得拍下他们对别人大喊大叫)"              , 
     "nerdsNow"             : "这些人在做什么"                        ,
    "schockedPeep"         : "为什么这个人在害怕？"                              ,
      "whatever"             : "无论什么"                                              ,
     
    // Act 3
-    "ellipsis"             : "ISIS???"                                                 ,
+    "ellipsis"             : "有一种不好的感觉"                                                 ,
     "coolNoMore"           : "帽子不在酷了，你听说了么？"           ,
     "beScared"             : "害怕吧，生气吧！"                                  ,
     
