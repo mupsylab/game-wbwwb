@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/f6FcrhT.png)
+![banner](https://s1.ax1x.com/2018/05/06/CUCaR0.png)
 
 *一个关于营销号的游戏*
 
