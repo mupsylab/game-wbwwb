@@ -99,7 +99,7 @@ var textStrings_CN = {
      "MarshallMcLuhan"    : "——————马歇尔·麦克卢汉" ,
      
      // (quote0004.png)
-     "misatrributed"      : "(错误归因)" ,
+     "misatrributed"      : "(并不是他说的)" ,
  };
 
 var textStrings = textStrings_CN
