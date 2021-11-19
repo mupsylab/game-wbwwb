@@ -35,7 +35,7 @@ var textStrings_CN = {
     
    // Act 3
     "ellipsis"             : "有一种不好的感觉"                                                 ,
-    "coolNoMore"           : "帽子不在酷了，你听说了么？"           ,
+    "coolNoMore"           : "帽子不再酷了，你听说了么？"           ,
     "beScared"             : "害怕吧，生气吧！"                                  ,
     
     // MANIFESTO
